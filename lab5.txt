@@ -1,0 +1,11 @@
+1) TDD is the process of swapping between writing tests and writing
+code. This orientes the code to follow the tests.
+
+2) Yes, the idea behind is very logical because this makes the code follow
+exactly what the tests want it to do. Passing all of the tests would increase a programmers
+confidence in his code and make debugging easier.
+
+3) TDD is very tedious and sometimes too careful that it can be a waste of time. But on the same
+subject sometimes sacraficing time to make sure no bugs will be found in the final code
+is very important depending on the project. TDD is a unique way to develope code that
+can be seen as very good or very bad depending on the preference of the programmer.
